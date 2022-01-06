@@ -3,7 +3,7 @@ import React, {FC} from "react";
 const FaceBookIcon: FC = () => {
     return (
         <li className="icon-li">
-            <a href="https://www.facebook.com/blah.w0rld" className="icon-a">
+            <a href="https://www.facebook.com/bufra.w0rld" className="icon-a">
                 <svg className="icon" width="32" height="32" fill="none"
                      xmlns="http://www.w3.org/2000/svg">
                     <path

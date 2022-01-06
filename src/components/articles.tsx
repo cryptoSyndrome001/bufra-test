@@ -250,8 +250,8 @@ const articles = [
         </div>
     },
     {
-        slug: 'how-many-artworks-and-creators-are-there-in-blah',
-        title: 'How many artworks & creators are there in BLAH?',
+        slug: 'how-many-artworks-and-creators-are-there-in-bufra',
+        title: 'How many artworks & creators are there?',
         details: <div className="col-detail-inr-2">
             <p className="desc desc-1 body-m">
                 Tellus egestas imperdiet nunc, mollis justo, dignissim sagittis. Quam sed euismod ac

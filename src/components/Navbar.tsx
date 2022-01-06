@@ -39,7 +39,7 @@ const Navbar: FC<IProps> = ({showMenu, setShowMenu, layout2}) => {
                             </a>
                         </div>
                         <div className="input-main">
-                            <input className="input" type="text" placeholder="Search BLAH"/>
+                            <input className="input" type="text" placeholder="Search"/>
                                 <svg className="search-icon" width="18" height="18" fill="none"
                                      xmlns="http://www.w3.org/2000/svg">
                                     <path d="M8 15A7 7 0 108 1a7 7 0 000 14zM12.95 12.95L17 17" stroke="#999"
@@ -183,7 +183,7 @@ const Navbar: FC<IProps> = ({showMenu, setShowMenu, layout2}) => {
                         </a>
                     </div>
                     <div className="input-main">
-                        <input className="input" type="text" placeholder="Search BLAH"/>
+                        <input className="input" type="text" placeholder="Search"/>
                             <svg className="search-icon" width="18" height="18" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
                                 <path d="M8 15A7 7 0 108 1a7 7 0 000 14zM12.95 12.95L17 17" stroke="#999"

@@ -13,7 +13,7 @@ const HowItWorks: FC<IProps> = ({classes}) => {
         <div className={`work-main-dark ${classes ? classes.join(' '): ''}`}>
             <div className="container-fluid">
                 <div className="wrapper">
-                    <h3 className="head heading-h3">How BLAH Works</h3>
+                    <h3 className="head heading-h3">How Works</h3>
                     <div className="teb-main">
                         <ul className="tabs">
                             <li className="tab-link-work tab-work1 active" data-tab="work1">
@@ -48,7 +48,7 @@ const HowItWorks: FC<IProps> = ({classes}) => {
                                         <h4 className="heading heading-h4">Set Up Your Wallet</h4>
                                     </div>
                                     <p className="desc body-m">Set up your wallet and then you can create, sell &
-                                        collect NFTs at BLAH.</p>
+                                        collect NFTs.</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 col-work-otr">
@@ -119,7 +119,7 @@ const HowItWorks: FC<IProps> = ({classes}) => {
                                         <h4 className="heading heading-h4">Set Up Your Wallet</h4>
                                     </div>
                                     <p className="desc body-m">Set up your wallet and then you can create, sell &
-                                        collect NFTs at BLAH.</p>
+                                        collect NFTs.</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 col-work-otr">

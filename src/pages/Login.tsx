@@ -26,7 +26,7 @@ const Login: FC = () => {
                             <div className="col-lg-6 col-md-8 col-login-otr">
                                 <div className="col-login-inr">
                                     <div className="content">
-                                        <h3 className="head heading-h3">Login to BLAH</h3>
+                                        <h3 className="head heading-h3">Login</h3>
                                         <div className="login-social">
                                             <span className="line"/>
                                             <p className="desc body-s">Login with socials</p>

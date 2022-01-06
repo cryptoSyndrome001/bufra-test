@@ -8,7 +8,7 @@ const CallToAction: FC = () => {
                     <div className="overlay">
                         <div className="content">
                             <h2 className="heading-h2 heading">
-                                Create, Sell & Collect <br/> NFTs at BLAH
+                                Create, Sell & Collect <br/> NFTs
                             </h2>
                             <p className="desc body-m">
                                 Aliquam viverra enim commodo sed consequat tempor <br/> sit nisl cursus lectus.

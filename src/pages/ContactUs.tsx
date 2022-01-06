@@ -74,11 +74,11 @@ const ContactUs: FC = () => {
                                             </div>
                                             <h4 className="head-icon heading-h4">Email</h4>
                                         </div>
-                                        <p className="text body-m">blah.worldwide@gmail.com</p>
+                                        <p className="text body-m">Bufra.worldwide@gmail.com</p>
                                     </div>
                                 </div>
                                 <div className="social-icon-otr">
-                                    <h4 className="head-2 heading-h4">Follow BLAH on Social Media</h4>
+                                    <h4 className="head-2 heading-h4">Follow on Social Media</h4>
                                     <ul className="icon-ul">
                                         <FaceBookIcon/>
                                         <DiscordIcon/>

@@ -25,7 +25,7 @@ const Signup: FC = () => {
                             <div className="col-lg-6 col-login-otr">
                                 <div className="col-login-inr">
                                     <div className="content">
-                                        <h3 className="head heading-h3">Sign Up to BLAH</h3>
+                                        <h3 className="head heading-h3">Sign Up</h3>
                                         <div className="login-social">
                                             <span className="line"/>
                                             <p className="desc body-s">Sign up with socials</p>

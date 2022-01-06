@@ -12,7 +12,7 @@ const About: FC = () => {
                     <div className="row row-content">
                         <div className="col-lg-5 col-head-otr">
                             <div className="col-head-inr">
-                                <h2 className="head heading-h2">Create, Sell & Collect Wonderful NFTs at BLAH Very
+                                <h2 className="head heading-h2">Create, Sell & Collect Wonderful NFTs at a Very
                                     Fast</h2>
                             </div>
                         </div>
@@ -102,7 +102,7 @@ const About: FC = () => {
             <div className="statistics-main-dark">
                 <div className="container-fluid">
                     <div className="wrapper">
-                        <h3 className="head heading-h3">BLAH Statistics</h3>
+                        <h3 className="head heading-h3">Statistics</h3>
                     </div>
                     <div className="row row-statistics">
                         <StatisticCard hasPrice/>
