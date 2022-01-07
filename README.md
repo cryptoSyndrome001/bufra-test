@@ -1,4 +1,4 @@
-# BUrantu-FRank Website Frontend Implementation
+# BUFRA Website Frontend Implementation
 
 - **Languages** Typescript
 - **Technology** ReactJS  (Frontend)
